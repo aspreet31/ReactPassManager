@@ -232,7 +232,7 @@ export default function manager() {
                         </td>
                         <td className=" py-2 text-center w-32">
                           <div className="flex justify-center items-center">
-                            <span>{item.password}</span>
+                            <span>{"*".repeat(item.password.length)}</span>
                             <div
                               className="cursor-pointer size-7"
                               onClick={() => {
