@@ -109,8 +109,7 @@ export default function manager() {
       <div className="relative h-full w-full bg-white">
         <div className="absolute h-full w-full bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_70%,transparent_100%)]"></div>
       </div>
-      <div className="mx-auto mt-5 container h-full w-full max-w-4xl">
-        <div className="p-3  min-h-[88.2vh] ">
+        <div className="p-3 md:mycontainer min-h-[88.2vh] ">
           <h1 className="text-4xl font-bold text-center">
             <span className="text-purple-500"> &lt; Pas</span>
             <span>s Mana</span>
@@ -279,7 +278,6 @@ export default function manager() {
             )}
           </div>
         </div>
-      </div>
     </>
   );
 }
