@@ -22,15 +22,19 @@ Building user interfaces: Learn how to design and implement a user-friendly inte
 Onclick Event Handling: implemented event handlers for button clicks, likely for: Saving a new password entry,Edit an existing password,Deleting a password.
 
 Screenshot of Web App -
+
 ![image](https://github.com/aspreet31/react-pass-manager/assets/103019348/2991dacf-eae9-4e87-ad05-271c72bad0bd)
 
 After added new Entries -
+
 ![image](https://github.com/aspreet31/react-pass-manager/assets/103019348/cdbf27e6-3291-4cc6-8412-d187bb37eed6)
 
 After deletion of ptu Entry - 
+
 ![image](https://github.com/aspreet31/react-pass-manager/assets/103019348/60fb111c-29a3-4ce4-85a1-83a9ceac5961)
 
 After Updation of username of  amazon Entry - 
+
 ![image](https://github.com/aspreet31/react-pass-manager/assets/103019348/dbf77fb4-07dc-4b4d-bcff-07f77333e18b)
 
 
