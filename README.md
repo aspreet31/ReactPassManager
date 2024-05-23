@@ -1,7 +1,7 @@
 # ReactPassManager
 This repository holds the code for a user-friendly password manager built with React.js. It allows you to securely manage your passwords using Local Storage and offers features for adding, deleting, and updating them.
 
-###Where you can:
+### Where you can:
 
 **Add new entries**: Simply provide the website, username, and password, and it's stored securely.
 
@@ -9,7 +9,7 @@ This repository holds the code for a user-friendly password manager built with R
 
 **Update passwords**: Changed your password on a website? Update it here too!
 
-###What did i learn ?
+### What did i learn ?
 
 **React development fundamentals**: Gain experience with core React concepts like components, state management, and user interactions.
 
@@ -21,7 +21,7 @@ This repository holds the code for a user-friendly password manager built with R
 
 **Onclick Event Handling**: implemented event handlers for button clicks, likely for: Saving a new password entry,Edit an existing password,Deleting a password.
 
-###Screenshot of Web App-
+### Screenshot of Web App-
 
 ![image](https://github.com/aspreet31/react-pass-manager/assets/103019348/2991dacf-eae9-4e87-ad05-271c72bad0bd)
 
